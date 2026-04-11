@@ -1,4 +1,4 @@
-# Template-Creation-Project-Lifecycle-Communication-System
+# GMAIL Template-Creation-Project-Lifecycle-Communication-System
 Designed and implemented a structured client communication lifecycle system using Gmail templates to standardize interactions across all project stages — from inquiry and proposal evaluation to onboarding, project execution, delivery, and invoice follow-up.
 
 The system improved communication consistency, reduced repetitive email drafting, protected executive time, and created a more organized client workflow. Templates were strategically developed to support onboarding, proposal decisions, project coordination, asset follow-ups, project hand-off, and payment reminders..
